@@ -4,7 +4,7 @@
   "style_id": "yffs-editorial-v1",
   "coverage": {
     "expected": 330,
-    "approved": 16
+    "approved": 24
   },
   "assets": {
     "S1-D001": {
@@ -367,6 +367,54 @@
         "notes": "目视确认橙红熟蟹块与辣椒香辣汁；依据薛明成的香辣蟹报道，未混用光头火夫生炒技法；摆盘为示意。"
       }
     },
+    "S1-D021": {
+      "id": "S1-D021",
+      "dish": "黄油鸡卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D021.jpg",
+      "sha256": "b554fb5070ab546711c14f083b5a903f2c69311c1834a548371ae93736c4e4aa",
+      "width": 960,
+      "height": 720,
+      "bytes": 244519,
+      "prompt": "prompts/S1-D021.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.smg.cn/review/202507/0166623.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认鸡肉卷切面和鱼香汁，未出现鱼肉、芝士或多余配菜；同系列暖白餐具及柔光。"
+      }
+    },
+    "S1-D022": {
+      "id": "S1-D022",
+      "dish": "玫瑰露鹅肝肠·法式惠灵顿牛柳",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D022.jpg",
+      "sha256": "8fb5d713cc1766e4f592753b8f3da7b0959c6c62f2660be1ecf19521ea24b543",
+      "width": 960,
+      "height": 720,
+      "bytes": 227762,
+      "prompt": "prompts/S1-D022.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认惠灵顿牛柳与鹅肝肠两种形态；摆盘是已知组成的示意，未声称节目原始组合位置。"
+      }
+    },
     "S1-D023": {
       "id": "S1-D023",
       "dish": "秘制豉油浸鸡",
@@ -389,6 +437,150 @@
         "checked_at": "2026-10-02",
         "status": "approved",
         "notes": "目视确认豉油鸡的琥珀色鸡皮、熟鸡肉切件与酱汁，无其他主体食材；系列风格一致。"
+      }
+    },
+    "S1-D025": {
+      "id": "S1-D025",
+      "dish": "青椒紫苏拆烩鱼头",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D025.jpg",
+      "sha256": "9498119d4a4e0dedd5b0f63d15908b162eea2706bd9ff800cd104a4711b7e5f4",
+      "width": 960,
+      "height": 720,
+      "bytes": 243528,
+      "prompt": "prompts/S1-D025.txt",
+      "tool": "built-in image_gen",
+      "basis": "same_chef_restaurant_context",
+      "source_urls": [
+        "https://m.greatchef.com.cn/index/newsview_iframe.html?fr=&id=9330&lang_id=&sharefrom="
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认拆骨鱼头肉、青椒和紫苏在清淡鱼汤中，无整鱼头或骨眼；同系列风格。"
+      }
+    },
+    "S1-D026": {
+      "id": "S1-D026",
+      "dish": "船家海鱼焗饭 配堂灼鱼汤蚌仔",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D026.jpg",
+      "sha256": "c32600bb9fdd3689d3940b1e79a7c9c68dd4f0722f1f90c358aa082ec7ebf067",
+      "width": 960,
+      "height": 720,
+      "bytes": 287081,
+      "prompt": "prompts/S1-D026.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认海鱼焗饭与蚌仔鱼汤分碗呈现，未添加奶酪；完整 4:3 图两部分均可见。"
+      }
+    },
+    "S1-D027": {
+      "id": "S1-D027",
+      "dish": "南麂岛黄鱼 配娃娃菜卷鱼肉",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D027.jpg",
+      "sha256": "4e1b8908c9ba55cb50d85493fa0ee094ca4499693fac79cf692c4f982d234bf4",
+      "width": 960,
+      "height": 720,
+      "bytes": 222767,
+      "prompt": "prompts/S1-D027.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认金黄鱼皮的鱼肉与娃娃菜包鱼肉卷，两个组成清晰，无多余配菜。"
+      }
+    },
+    "S1-D029": {
+      "id": "S1-D029",
+      "dish": "勃艮第叉烧牛排",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D029.jpg",
+      "sha256": "cee3dc9c373e4e196d1d3c1e3c5386cecd868b4fc0c3e5533fdded78beb486ac",
+      "width": 960,
+      "height": 720,
+      "bytes": 271679,
+      "prompt": "prompts/S1-D029.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认叉烧风格牛排切片和深红棕色酱汁，无猪肉叉烧混用；光线、背景统一。"
+      }
+    },
+    "S1-D031": {
+      "id": "S1-D031",
+      "dish": "香江羔宴",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D031.jpg",
+      "sha256": "62c2521b575186c02c1b98a5f574ee39b3943ba96c98582aee6895b4555b3d49",
+      "width": 960,
+      "height": 720,
+      "bytes": 260369,
+      "prompt": "prompts/S1-D031.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://www.weibo.com/ttarticle/p/show?id=2309405193688207982607"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认羊叉烧、羊腩肋与羊肉卷三种形态，未加入其他肉类或配菜；具体摆盘为示意。"
+      }
+    },
+    "S1-D033": {
+      "id": "S1-D033",
+      "dish": "客家龙虾泡饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D033.jpg",
+      "sha256": "24ee907ed734e224fa3ba9adf1042ffde0c0e547a36a71f304a1f39700c3ddaa",
+      "width": 960,
+      "height": 720,
+      "bytes": 239553,
+      "prompt": "prompts/S1-D033.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://xuan.com.my/entertainment/malaysia-chef-99659"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认龙虾肉、泡在清汤中的米粒与龙虾尾壳，没有做成奶油烩饭；同系列风格。"
       }
     }
   }

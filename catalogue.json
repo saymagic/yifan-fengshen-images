@@ -164,16 +164,16 @@
     "dish": "黄油鸡卷",
     "season": 1,
     "chef": "爱卷才会赢",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D021.jpg"
   },
   {
     "id": "S1-D022",
     "dish": "玫瑰露鹅肝肠·法式惠灵顿牛柳",
     "season": 1,
     "chef": "化学系靓厨·郑紫欣",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D022.jpg"
   },
   {
     "id": "S1-D023",
@@ -196,24 +196,24 @@
     "dish": "青椒紫苏拆烩鱼头",
     "season": 1,
     "chef": "长沙小椒傲·龙宁",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D025.jpg"
   },
   {
     "id": "S1-D026",
     "dish": "船家海鱼焗饭 配堂灼鱼汤蚌仔",
     "season": 1,
     "chef": "鱼鲜人·赖周威",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D026.jpg"
   },
   {
     "id": "S1-D027",
     "dish": "南麂岛黄鱼 配娃娃菜卷鱼肉",
     "season": 1,
     "chef": "小花儿·周欢",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D027.jpg"
   },
   {
     "id": "S1-D028",
@@ -228,8 +228,8 @@
     "dish": "勃艮第叉烧牛排",
     "season": 1,
     "chef": "双料冠军",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D029.jpg"
   },
   {
     "id": "S1-D030",
@@ -244,8 +244,8 @@
     "dish": "香江羔宴",
     "season": 1,
     "chef": "燃少·叶林辉",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D031.jpg"
   },
   {
     "id": "S1-D032",
@@ -260,8 +260,8 @@
     "dish": "客家龙虾泡饭",
     "season": 1,
     "chef": "狮城黑马·叶健楷",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D033.jpg"
   },
   {
     "id": "S1-D034",
