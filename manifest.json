@@ -4,7 +4,7 @@
   "style_id": "yffs-editorial-v1",
   "coverage": {
     "expected": 330,
-    "approved": 12
+    "approved": 16
   },
   "assets": {
     "S1-D001": {
@@ -293,6 +293,102 @@
         "checked_at": "2026-10-02",
         "status": "approved",
         "notes": "目视确认鱼肉狮子球与清淡鸭汤组合，没有画成整鱼或鸭腿；同一系列餐具和光线。"
+      }
+    },
+    "S1-D017": {
+      "id": "S1-D017",
+      "dish": "墨脱黑椒藏香猪排 配娜拉撒布荨麻浓汤",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D017.jpg",
+      "sha256": "6fcf01bfd359bd808cfea79ac295695f66c999e34ffc8db7c8e9e4c337f1e50b",
+      "width": 960,
+      "height": 720,
+      "bytes": 245969,
+      "prompt": "prompts/S1-D017.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认胡椒猪排与荨麻绿汤分盘呈现，肉类形态正常，餐具、背景、机位和光线统一；摆盘为示意。"
+      }
+    },
+    "S1-D018": {
+      "id": "S1-D018",
+      "dish": "炭火羊脂米",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D018.jpg",
+      "sha256": "0eb627f3e7a1113ddc90cfea3372e7613f089b80c6bdfe33721cf7828b85ccea",
+      "width": 960,
+      "height": 720,
+      "bytes": 234155,
+      "prompt": "prompts/S1-D018.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_technique_and_ingredients",
+      "source_urls": [
+        "https://www.weibo.com/7969225792/PDlRZ26sP"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认羊油炭烤米饭的焦香颗粒，没有擅自添加羊肉块或配菜；同系列餐具和光线。"
+      }
+    },
+    "S1-D019": {
+      "id": "S1-D019",
+      "dish": "光头香辣蟹",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D019.jpg",
+      "sha256": "c915f9ef7efca6be94310d06679c048069a8baa21563f0ec96a96e4de6c129ba",
+      "width": 960,
+      "height": 720,
+      "bytes": 306755,
+      "prompt": "prompts/S1-D019.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.sohu.com/a/914907850_120952561"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认橙红熟蟹块与辣椒香辣汁；依据薛明成的香辣蟹报道，未混用光头火夫生炒技法；摆盘为示意。"
+      }
+    },
+    "S1-D023": {
+      "id": "S1-D023",
+      "dish": "秘制豉油浸鸡",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D023.jpg",
+      "sha256": "f130bc1c981a4b033339fe093375751fc9683e54ccd2d2b2ffb7bb895c277b2a",
+      "width": 960,
+      "height": 720,
+      "bytes": 230721,
+      "prompt": "prompts/S1-D023.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认豉油鸡的琥珀色鸡皮、熟鸡肉切件与酱汁，无其他主体食材；系列风格一致。"
       }
     }
   }

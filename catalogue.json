@@ -132,24 +132,24 @@
     "dish": "墨脱黑椒藏香猪排 配娜拉撒布荨麻浓汤",
     "season": 1,
     "chef": "高原反应",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D017.jpg"
   },
   {
     "id": "S1-D018",
     "dish": "炭火羊脂米",
     "season": 1,
     "chef": "光头火夫·高拥昊",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D018.jpg"
   },
   {
     "id": "S1-D019",
     "dish": "光头香辣蟹",
     "season": 1,
     "chef": "灶台老顽童·薛明成",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D019.jpg"
   },
   {
     "id": "S1-D020",
@@ -180,8 +180,8 @@
     "dish": "秘制豉油浸鸡",
     "season": 1,
     "chef": "我不是女王·孙美华",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D023.jpg"
   },
   {
     "id": "S1-D024",
