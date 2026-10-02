@@ -4,7 +4,7 @@
   "style_id": "yffs-editorial-v1",
   "coverage": {
     "expected": 330,
-    "approved": 4
+    "approved": 12
   },
   "assets": {
     "S1-D001": {
@@ -79,6 +79,30 @@
         "notes": "目视确认酿馅鸽腿的切面、香菇肉馅和禽皮，无整鸽或盐堆；同一系列光线。具体份量和摆盘是示意。"
       }
     },
+    "S1-D005": {
+      "id": "S1-D005",
+      "dish": "九转大肠",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D005.jpg",
+      "sha256": "cf911b3c4149ce9fb6023486af9ae4c7ef38db75383158a41b8a916aa04e6dd8",
+      "width": 960,
+      "height": 720,
+      "bytes": 231261,
+      "prompt": "prompts/S1-D005.txt",
+      "tool": "built-in image_gen",
+      "basis": "title_and_home_reference",
+      "source_urls": [
+        "https://m.xiachufang.com/recipe/103657848/"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认短筒状大肠、同心层次和红棕浓汁；无其他主体食材；统一桌面、餐具、机位。"
+      }
+    },
     "S1-D006": {
       "id": "S1-D006",
       "dish": "虾虾虾籽面",
@@ -101,6 +125,174 @@
         "checked_at": "2026-10-02",
         "status": "approved",
         "notes": "目视确认细面、虾仁和深色虾籽，无橙色鲑鱼卵；同一系列器皿和背景。具体形态为示意。"
+      }
+    },
+    "S1-D007": {
+      "id": "S1-D007",
+      "dish": "澳洲龙虾Taco",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D007.jpg",
+      "sha256": "949c5076e79c513fd9f58ecdcee4c324da287f861255a3b820a5600e39b948c6",
+      "width": 960,
+      "height": 720,
+      "bytes": 218673,
+      "prompt": "prompts/S1-D007.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5189490269228249.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认白色软饵块包裹龙虾肉，不是黄色玉米饼；细碎装饰和摆盘为示意，保留 AI 标签。"
+      }
+    },
+    "S1-D008": {
+      "id": "S1-D008",
+      "dish": "甘鲷立鳞烧",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D008.jpg",
+      "sha256": "b89bb676ae3e2813001378938c6913871b10d05ea7f29d76af83f5c43d33d034",
+      "width": 960,
+      "height": 720,
+      "bytes": 202373,
+      "prompt": "prompts/S1-D008.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_named_technique",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "修订版目视通过：保留竖起酥鳞与白色鱼肉，移除原生成图中多出的葱段；统一机位和桌面。"
+      }
+    },
+    "S1-D010": {
+      "id": "S1-D010",
+      "dish": "𰻞𰻞面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D010.jpg",
+      "sha256": "64eb36707d63a0dccc95b536039d796ffbb0082b1ef42a97d8067010b3c9f776",
+      "width": 960,
+      "height": 720,
+      "bytes": 268503,
+      "prompt": "prompts/S1-D010.txt",
+      "tool": "built-in image_gen",
+      "basis": "title_and_home_reference",
+      "source_urls": [
+        "https://m.xiachufang.com/recipe/107105180/"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认宽扁手拉面、油泼辣子、蒜葱和青菜；无未记录的肉类；统一光线与餐具。"
+      }
+    },
+    "S1-D011": {
+      "id": "S1-D011",
+      "dish": "甘蔗盐焗桂香鸡",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D011.jpg",
+      "sha256": "de0e80b62c1de9d25bde89b21cb438c6e11674005344da7e0d42bc62057fa568",
+      "width": 960,
+      "height": 720,
+      "bytes": 218875,
+      "prompt": "prompts/S1-D011.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认鸡肉、甘蔗段与桂花，无新增蔬菜主体；餐具和光线统一；份量及摆盘为示意。"
+      }
+    },
+    "S1-D012": {
+      "id": "S1-D012",
+      "dish": "翡翠芙蓉文思龙虾球",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D012.jpg",
+      "sha256": "40141d688b08a0a590f6f1eb1861bb903edc3e61eddc03c9559bf2f8ce5327ef",
+      "width": 960,
+      "height": 720,
+      "bytes": 205823,
+      "prompt": "prompts/S1-D012.txt",
+      "tool": "built-in image_gen",
+      "basis": "same_chef_restaurant_context",
+      "source_urls": [
+        "https://www.forbeschina.com/billionaires/64603"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认菠菜绿汤、文思豆腐细丝、蒸蛋与龙虾肉四部分；依据同名主厨餐厅资料，不声称还原节目摆盘。"
+      }
+    },
+    "S1-D013": {
+      "id": "S1-D013",
+      "dish": "传承酸辣辽参",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D013.jpg",
+      "sha256": "cb2f10431c086880733d9000061aa01943d39357cf75a1098b42fc4f7f641f4e",
+      "width": 960,
+      "height": 720,
+      "bytes": 224475,
+      "prompt": "prompts/S1-D013.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认刺参整体形态和酸辣汁；没有把海参替换成香肠、茄子或其他食材；尺寸与摆盘为示意。"
+      }
+    },
+    "S1-D014": {
+      "id": "S1-D014",
+      "dish": "永春白鸭汤炖午鱼狮子球",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D014.jpg",
+      "sha256": "90ecca2aeb2410da00146eca270cf97593bfdf1b5efaaba5b170ed08df1d27a2",
+      "width": 960,
+      "height": 720,
+      "bytes": 208321,
+      "prompt": "prompts/S1-D014.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.jfdaily.com.cn/sgh/detail?id=1699723"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认鱼肉狮子球与清淡鸭汤组合，没有画成整鱼或鸭腿；同一系列餐具和光线。"
       }
     }
   }

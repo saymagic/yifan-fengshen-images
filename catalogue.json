@@ -36,8 +36,8 @@
     "dish": "九转大肠",
     "season": 1,
     "chef": "九转大肠·俞涛",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D005.jpg"
   },
   {
     "id": "S1-D006",
@@ -52,16 +52,16 @@
     "dish": "澳洲龙虾Taco",
     "season": 1,
     "chef": "澳特Man",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D007.jpg"
   },
   {
     "id": "S1-D008",
     "dish": "甘鲷立鳞烧",
     "season": 1,
     "chef": "三加二",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D008.jpg"
   },
   {
     "id": "S1-D009",
@@ -76,40 +76,40 @@
     "dish": "𰻞𰻞面",
     "season": 1,
     "chef": "伦敦面条女王",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D010.jpg"
   },
   {
     "id": "S1-D011",
     "dish": "甘蔗盐焗桂香鸡",
     "season": 1,
     "chef": "禽天柱",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D011.jpg"
   },
   {
     "id": "S1-D012",
     "dish": "翡翠芙蓉文思龙虾球",
     "season": 1,
     "chef": "江南Style",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D012.jpg"
   },
   {
     "id": "S1-D013",
     "dish": "传承酸辣辽参",
     "season": 1,
     "chef": "湘承者·王铭隽",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D013.jpg"
   },
   {
     "id": "S1-D014",
     "dish": "永春白鸭汤炖午鱼狮子球",
     "season": 1,
     "chef": "厦夜星厨·杨康",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D014.jpg"
   },
   {
     "id": "S1-D015",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "S2-D015",
-    "dish": "槽辣汤苕粉笋壳鱼",
+    "dish": "糟辣汤苕粉笋壳鱼",
     "season": 2,
     "chef": "张龙",
     "status": "pending",
