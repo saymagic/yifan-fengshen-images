@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/saymagic/yifan-fengshen-images",
+  "style_id": "yffs-editorial-v1",
+  "coverage": {
+    "expected": 330,
+    "approved": 4
+  },
+  "assets": {
+    "S1-D001": {
+      "id": "S1-D001",
+      "dish": "炭烤青花鱼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D001.jpg",
+      "sha256": "d68c90792cc98e4718f6c716e2d5aa51fd716c095e6fc23f450b0592cb59b59d",
+      "width": 960,
+      "height": 720,
+      "bytes": 238601,
+      "prompt": "prompts/S1-D001.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://news.e23.cn/yule/2025-07-25/2025072500112.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认青花鱼、丝瓜、白芦笋、番茄与无花果叶；食物居中，统一米白餐具和浅色石桌。"
+      }
+    },
+    "S1-D003": {
+      "id": "S1-D003",
+      "dish": "松叶蟹麻婆豆腐",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D003.jpg",
+      "sha256": "f96e8a6ef51644eaa1554d865302b1d08215c4af2e6e79d94d73cb37162c2ff9",
+      "width": 960,
+      "height": 720,
+      "bytes": 275717,
+      "prompt": "prompts/S1-D003.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认豆腐与松叶蟹腿肉，无龙虾或整只大闸蟹错配；背景、机位、光线与基准一致。具体调味和摆盘是示意。"
+      }
+    },
+    "S1-D004": {
+      "id": "S1-D004",
+      "dish": "盐焗鸽腿酿香菇肉馅",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D004.jpg",
+      "sha256": "e3e94818119f874eae9882ec151d24cb75c98c085a70c03dcafd1af116e45bb9",
+      "width": 960,
+      "height": 720,
+      "bytes": 228083,
+      "prompt": "prompts/S1-D004.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_technique_and_ingredients",
+      "source_urls": [
+        "https://www.sohu.com/a/924691351_131816"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认酿馅鸽腿的切面、香菇肉馅和禽皮，无整鸽或盐堆；同一系列光线。具体份量和摆盘是示意。"
+      }
+    },
+    "S1-D006": {
+      "id": "S1-D006",
+      "dish": "虾虾虾籽面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D006.jpg",
+      "sha256": "13b0092002f38b8a7568d60b14c0ffbf1250f02cf886232619a4b188007bb4ee",
+      "width": 960,
+      "height": 720,
+      "bytes": 249406,
+      "prompt": "prompts/S1-D006.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视确认细面、虾仁和深色虾籽，无橙色鲑鱼卵；同一系列器皿和背景。具体形态为示意。"
+      }
+    }
+  }
+}
