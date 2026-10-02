@@ -4,7 +4,7 @@
   "style_id": "yffs-editorial-v1",
   "coverage": {
     "expected": 330,
-    "approved": 24
+    "approved": 48
   },
   "assets": {
     "S1-D001": {
@@ -559,6 +559,30 @@
         "notes": "目视确认羊叉烧、羊腩肋与羊肉卷三种形态，未加入其他肉类或配菜；具体摆盘为示意。"
       }
     },
+    "S1-D032": {
+      "id": "S1-D032",
+      "dish": "刺葱油封东星斑 配梅干菜鲍鱼高汤酱汁",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D032.jpg",
+      "sha256": "d97671ca675d65a679bb0e084688f9dd228857cf16979a9fed254219a677a5a6",
+      "width": 960,
+      "height": 720,
+      "bytes": 239845,
+      "prompt": "prompts/S1-D032.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：东星斑鱼柳、梅干菜鲍鱼高汤酱汁和少量刺葱，未画整只鲍鱼；统一餐具、背景和光线。 具体摆盘保留 AI 示意说明。"
+      }
+    },
     "S1-D033": {
       "id": "S1-D033",
       "dish": "客家龙虾泡饭",
@@ -581,6 +605,558 @@
         "checked_at": "2026-10-02",
         "status": "approved",
         "notes": "目视确认龙虾肉、泡在清汤中的米粒与龙虾尾壳，没有做成奶油烩饭；同系列风格。"
+      }
+    },
+    "S1-D043": {
+      "id": "S1-D043",
+      "dish": "兔肉意大利饺",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D043.jpg",
+      "sha256": "3b74c03383f42896af304e9a45ddeeef66e830d4ae61d61e29b28c69e324a5ee",
+      "width": 960,
+      "height": 720,
+      "bytes": 197901,
+      "prompt": "prompts/S1-D043.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：兔肉意大利饺及熟肉切面清楚，未出现番茄酱、芝士或无关装饰。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D044": {
+      "id": "S1-D044",
+      "dish": "刀口辣椒烤和牛",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D044.jpg",
+      "sha256": "027b8c450fad0d5e80c420bf486a3139dbaefd87bed1576b3fd67edec5980b00",
+      "width": 960,
+      "height": 720,
+      "bytes": 259272,
+      "prompt": "prompts/S1-D044.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.smg.cn/review/202507/0166623.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：刀口辣椒覆盖和牛切块，未误画成黑胡椒汁或添加配菜。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D045": {
+      "id": "S1-D045",
+      "dish": "西北炖羊肉 配中东皮塔饼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D045.jpg",
+      "sha256": "c38cbfe29d653165ea41861e6fa803b6ea8d7c1ad44afd57bbb075a057ff75bd",
+      "width": 960,
+      "height": 720,
+      "bytes": 273612,
+      "prompt": "prompts/S1-D045.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：羊肉汤与皮塔饼两部分完整呈现，非米饭或西式炖菜拼盘。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D046": {
+      "id": "S1-D046",
+      "dish": "酸米油小黄鱼番茄米皮",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D046.jpg",
+      "sha256": "e6b099c5dfb1269e7ce13268a051b26f83865bdf5e410d703484c0f6e4668a4c",
+      "width": 960,
+      "height": 720,
+      "bytes": 235537,
+      "prompt": "prompts/S1-D046.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5192345451888776.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：小黄鱼、番茄和宽米皮在浅汤中，米皮形态不同于普通面条。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D047": {
+      "id": "S1-D047",
+      "dish": "木姜子贵州牛肉面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D047.jpg",
+      "sha256": "12b6273901b42f557b78ca4754ada79f2d2dd219289be7fe61c3a24462e1acd5",
+      "width": 960,
+      "height": 720,
+      "bytes": 274525,
+      "prompt": "prompts/S1-D047.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：修订版已去掉未经确认的香菜葱花，并将裂开的花椒壳改为完整小木姜子果；牛肉面主体和系列风格保留。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D048": {
+      "id": "S1-D048",
+      "dish": "刺龙芽的一生",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D048.jpg",
+      "sha256": "cb8d07da0ff8e2a2b358e0503b64045105bdbbf9a4ea24d0bafec133229f1522",
+      "width": 960,
+      "height": 720,
+      "bytes": 223074,
+      "prompt": "prompts/S1-D048.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://travel.ifeng.com/c/8lDZFSQmJTE"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：春卷、石榴形菜包、腌刺龙芽三种形态齐全，没有画成石榴水果。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D049": {
+      "id": "S1-D049",
+      "dish": "面线糊配五香卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D049.jpg",
+      "sha256": "c15beac75acfba2a8f9bbff31bb0fe30c89be855185ff5ad1989596a4f8c56ab",
+      "width": 960,
+      "height": 720,
+      "bytes": 257640,
+      "prompt": "prompts/S1-D049.txt",
+      "tool": "built-in image_gen",
+      "basis": "traditional_reference",
+      "source_urls": [
+        "https://scjgj.quanzhou.gov.cn/xxgk/zfxxgk/fdzdgknr/ywgz/202501/P020250102420793363849.pdf"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：细面线糊、刺龙芽与切开的五香卷分碗呈现；细面未误画为粗拉面。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D052": {
+      "id": "S1-D052",
+      "dish": "宫保虾仁",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D052.jpg",
+      "sha256": "e89649cb161f1181cc22ede7b40610ec83b4294e4e1d7af764b01411e35cf6ef",
+      "width": 960,
+      "height": 720,
+      "bytes": 257993,
+      "prompt": "prompts/S1-D052.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：按命题呈现小龙虾尾肉的宫保菜，未画成大对虾或鸡丁。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D053": {
+      "id": "S1-D053",
+      "dish": "油焖小龙虾",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D053.jpg",
+      "sha256": "e0aa66e6d8d99f2ea0ab957c989ae28db19a3b9ce1a2530510ac34c0c5f9c13d",
+      "width": 960,
+      "height": 720,
+      "bytes": 267487,
+      "prompt": "prompts/S1-D053.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：熟红小龙虾与油焖汁，身体和螯形态完整；没有巨型龙虾或配菜。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D055": {
+      "id": "S1-D055",
+      "dish": "豆汁金吉鱼 配豆汁慕斯小挞",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D055.jpg",
+      "sha256": "94c21ded5829a9b4e92c06816ef52c468a42814d2d952406fb787ceeaf6f5dd1",
+      "width": 960,
+      "height": 720,
+      "bytes": 206612,
+      "prompt": "prompts/S1-D055.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://news.17173.com/content/07272025/183904153.shtml"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：鱼柳、豆汁慕斯小挞及少量柠檬豆汁珠粒三部分符合已报道组成。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D056": {
+      "id": "S1-D056",
+      "dish": "熟醉法式小羊排",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D056.jpg",
+      "sha256": "2526815da9903b2637de2255d0c1a04bb37dcd12fb76e1be1a7bbb6050ee0b8a",
+      "width": 960,
+      "height": 720,
+      "bytes": 253169,
+      "prompt": "prompts/S1-D056.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：熟醉法式小羊排与淡酒汁，三根肋骨连接合理；没有生肉或额外配菜。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D057": {
+      "id": "S1-D057",
+      "dish": "山河宁夏滩羊排",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D057.jpg",
+      "sha256": "9715945a46cdbad48f34cddee06438e3141fe6923916f7fbe398d149e5734c21",
+      "width": 960,
+      "height": 720,
+      "bytes": 245028,
+      "prompt": "prompts/S1-D057.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：熟滩羊排、金黄表面与自然肉汁；份量摆盘为示意。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D058": {
+      "id": "S1-D058",
+      "dish": "枇杷焖鸡",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D058.jpg",
+      "sha256": "16450b81a3d497d5ae6c412909186b8d279b03d5579c3910289626703579419e",
+      "width": 960,
+      "height": 720,
+      "bytes": 228009,
+      "prompt": "prompts/S1-D058.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：焖鸡与去皮去核浅色白玉枇杷，未误用菠萝、桃或杏。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D059": {
+      "id": "S1-D059",
+      "dish": "枇杷海鲜套餐 之炝汁白玉枇杷拌活北极贝",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D059.jpg",
+      "sha256": "1168924d0792cced546e2893afd8562c18b34fdb4256f06746c48406e24df98f",
+      "width": 960,
+      "height": 720,
+      "bytes": 211997,
+      "prompt": "prompts/S1-D059.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：红尖白底北极贝与去皮浅色枇杷，未误画成扇贝、寿司或带壳蚌。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D060": {
+      "id": "S1-D060",
+      "dish": "枇杷鲜时鳗鱼汤",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D060.jpg",
+      "sha256": "2162c0f41933e20cd2f9d2d2d61d947958256a5ee231e5cb28bf58b1dfc100f9",
+      "width": 960,
+      "height": 720,
+      "bytes": 211275,
+      "prompt": "prompts/S1-D060.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：修订版将明显鱼鳞改为较平滑深色鳗鱼皮，并把枇杷改成浅色果肉；保留清汤。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D061": {
+      "id": "S1-D061",
+      "dish": "酸菜鱼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D061.jpg",
+      "sha256": "8df5c038accd4f866a51536cfdbd19a348b069eb645ddc27790e86cb8e73a06d",
+      "width": 960,
+      "height": 720,
+      "bytes": 244177,
+      "prompt": "prompts/S1-D061.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5254198821127321.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：修订版呈现较平滑深色鱼皮的圆筒鳗鱼段，与酸菜清汤组合，未使用草鱼薄片。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D062": {
+      "id": "S1-D062",
+      "dish": "脑花两吃",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D062.jpg",
+      "sha256": "879660abe67987350aa0439d5b435a51bb613ceab1c10881138e3f3185a54a66",
+      "width": 960,
+      "height": 720,
+      "bytes": 244598,
+      "prompt": "prompts/S1-D062.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://news.17173.com/content/07272025/183904153.shtml"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：修订版为卤水脑花配白芦笋与燕窝芙蓉猪脑羹；剔除了误配给其他厨师的牛奶蒸蛋和天妇罗。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D064": {
+      "id": "S1-D064",
+      "dish": "奶皮子鲛鱼烩饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D064.jpg",
+      "sha256": "0af53a09b41344d446973d9a5c9128bc9ec733b0baf4dc4ae90a0aec332e1944",
+      "width": 960,
+      "height": 720,
+      "bytes": 209536,
+      "prompt": "prompts/S1-D064.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://xuan.com.my/entertainment/malaysia-chef-99659"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：烩饭米粒、鱼块与奶皮子薄片清晰，不含鲨鱼翅或无关蔬菜。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D066": {
+      "id": "S1-D066",
+      "dish": "黑猪肉卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D066.jpg",
+      "sha256": "3331ae571df41335fca10f6b55e21a493a68678968bdc06ee1a93f6a8f451951",
+      "width": 960,
+      "height": 720,
+      "bytes": 252221,
+      "prompt": "prompts/S1-D066.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：黑猪肉卷切面可见自然肉脂层次，没有将黑猪画成黑色肉或加入蔬菜馅。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D067": {
+      "id": "S1-D067",
+      "dish": "松露脂香叠熏肋",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D067.jpg",
+      "sha256": "ed3c6ddff546062fa6dc2ce9d178ada8d9b90c0fbe67d50d7b9c2a4518d9b677",
+      "width": 960,
+      "height": 720,
+      "bytes": 239770,
+      "prompt": "prompts/S1-D067.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：熏猪肋肉、脂肪分层与少量松露片，骨肉形态正常。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D069": {
+      "id": "S1-D069",
+      "dish": "红薯面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D069.jpg",
+      "sha256": "9409f88fbb5f94fe8818d895df70f7a322faa5d52b15dee63c9f3bbf3a169f7a",
+      "width": 960,
+      "height": 720,
+      "bytes": 232148,
+      "prompt": "prompts/S1-D069.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://weibo.com/ttarticle/p/show?id=2309405193688207982607"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：红薯泥和猪油形成的金色拌面，未使用红薯块或添加肉菜浇头。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D071": {
+      "id": "S1-D071",
+      "dish": "菌菇提拉米苏",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D071.jpg",
+      "sha256": "09615607c792d1a73727a87a63becf1de9985018e0101a715564a11ae5a6285d",
+      "width": 960,
+      "height": 720,
+      "bytes": 238699,
+      "prompt": "prompts/S1-D071.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_only",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：菌菇层与奶油状层构成提拉米苏形态，少量菌菇辨识，不含草莓咖啡杯等无关物。 具体摆盘保留 AI 示意说明。"
+      }
+    },
+    "S1-D072": {
+      "id": "S1-D072",
+      "dish": "南阳牛肋条意大利饺子",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S1-D072.jpg",
+      "sha256": "59c384f49feb8f476ab37db54facd7c07f3f8a6ad416c5b576c84a3e4570df80",
+      "width": 960,
+      "height": 720,
+      "bytes": 230058,
+      "prompt": "prompts/S1-D072.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_theme",
+      "source_urls": [
+        "https://zh.wikipedia.org/wiki/一饭封神"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-02",
+        "status": "approved",
+        "notes": "目视通过：牛肋肉意大利饺与熟牛肉纤维切面，未画完整骨头或使用番茄酱。 具体摆盘保留 AI 示意说明。"
       }
     }
   }

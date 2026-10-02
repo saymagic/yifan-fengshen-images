@@ -252,8 +252,8 @@
     "dish": "刺葱油封东星斑 配梅干菜鲍鱼高汤酱汁",
     "season": 1,
     "chef": "宝岛一枝梅·刘懿梅",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D032.jpg"
   },
   {
     "id": "S1-D033",
@@ -340,56 +340,56 @@
     "dish": "兔肉意大利饺",
     "season": 1,
     "chef": "背头爱Battle",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D043.jpg"
   },
   {
     "id": "S1-D044",
     "dish": "刀口辣椒烤和牛",
     "season": 1,
     "chef": "028·史昊诚",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D044.jpg"
   },
   {
     "id": "S1-D045",
     "dish": "西北炖羊肉 配中东皮塔饼",
     "season": 1,
     "chef": "游牧小厨·赵耀",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D045.jpg"
   },
   {
     "id": "S1-D046",
     "dish": "酸米油小黄鱼番茄米皮",
     "season": 1,
     "chef": "帅晓剑",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D046.jpg"
   },
   {
     "id": "S1-D047",
     "dish": "木姜子贵州牛肉面",
     "season": 1,
     "chef": "光头火夫·高拥昊",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D047.jpg"
   },
   {
     "id": "S1-D048",
     "dish": "刺龙芽的一生",
     "season": 1,
     "chef": "杨艳彬",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D048.jpg"
   },
   {
     "id": "S1-D049",
     "dish": "面线糊配五香卷",
     "season": 1,
     "chef": "厦夜星厨·杨康",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D049.jpg"
   },
   {
     "id": "S1-D050",
@@ -412,16 +412,16 @@
     "dish": "宫保虾仁",
     "season": 1,
     "chef": "灶台老顽童·薛明成",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D052.jpg"
   },
   {
     "id": "S1-D053",
     "dish": "油焖小龙虾",
     "season": 1,
     "chef": "陈晓东",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D053.jpg"
   },
   {
     "id": "S1-D054",
@@ -436,64 +436,64 @@
     "dish": "豆汁金吉鱼 配豆汁慕斯小挞",
     "season": 1,
     "chef": "Lucas",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D055.jpg"
   },
   {
     "id": "S1-D056",
     "dish": "熟醉法式小羊排",
     "season": 1,
     "chef": "黄启云",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D056.jpg"
   },
   {
     "id": "S1-D057",
     "dish": "山河宁夏滩羊排",
     "season": 1,
     "chef": "山野里的哼哼·黄若珈",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D057.jpg"
   },
   {
     "id": "S1-D058",
     "dish": "枇杷焖鸡",
     "season": 1,
     "chef": "林潮带",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D058.jpg"
   },
   {
     "id": "S1-D059",
     "dish": "枇杷海鲜套餐 之炝汁白玉枇杷拌活北极贝",
     "season": 1,
     "chef": "鱼鲜人·赖周威",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D059.jpg"
   },
   {
     "id": "S1-D060",
     "dish": "枇杷鲜时鳗鱼汤",
     "season": 1,
     "chef": "金洪男",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D060.jpg"
   },
   {
     "id": "S1-D061",
     "dish": "酸菜鱼",
     "season": 1,
     "chef": "宴究生·屈雨瑜",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D061.jpg"
   },
   {
     "id": "S1-D062",
     "dish": "脑花两吃",
     "season": 1,
     "chef": "邵德龙",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D062.jpg"
   },
   {
     "id": "S1-D063",
@@ -508,8 +508,8 @@
     "dish": "奶皮子鲛鱼烩饭",
     "season": 1,
     "chef": "狮城黑马·叶健楷",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D064.jpg"
   },
   {
     "id": "S1-D065",
@@ -524,16 +524,16 @@
     "dish": "黑猪肉卷",
     "season": 1,
     "chef": "小花儿·周欢",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D066.jpg"
   },
   {
     "id": "S1-D067",
     "dish": "松露脂香叠熏肋",
     "season": 1,
     "chef": "王斌",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D067.jpg"
   },
   {
     "id": "S1-D068",
@@ -548,8 +548,8 @@
     "dish": "红薯面",
     "season": 1,
     "chef": "长沙小椒傲·龙宁",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D069.jpg"
   },
   {
     "id": "S1-D070",
@@ -564,16 +564,16 @@
     "dish": "菌菇提拉米苏",
     "season": 1,
     "chef": "宝岛一枝梅·刘懿梅",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D071.jpg"
   },
   {
     "id": "S1-D072",
     "dish": "南阳牛肋条意大利饺子",
     "season": 1,
     "chef": "董嘉琪",
-    "status": "pending",
-    "asset_path": null
+    "status": "approved",
+    "asset_path": "covers/v1/S1-D072.jpg"
   },
   {
     "id": "S1-D073",
