@@ -4,7 +4,7 @@
   "style_id": "yffs-editorial-v1",
   "coverage": {
     "expected": 330,
-    "approved": 110
+    "approved": 186
   },
   "assets": {
     "S1-D001": {
@@ -2648,6 +2648,1833 @@
         "checked_at": "2026-10-03",
         "status": "approved",
         "notes": "姜汁蒸蛋与米饭风味冰淇淋分装；冰淇淋已改为光滑奶油质地，不再像米饭团。 同一系列餐具、桌面及光线；具体摆盘为 AI 示意。"
+      }
+    },
+    "S2-D004": {
+      "id": "S2-D004",
+      "dish": "海蟹炒米粉",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D004.jpg",
+      "sha256": "8b869dd530f8778650952b59592b2375d595e69b0a57a57852120235effb5969",
+      "width": 960,
+      "height": 720,
+      "bytes": 259228,
+      "prompt": "prompts/S2-D004.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "海蟹块与炒米粉形态清楚，未生成汤面。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D005": {
+      "id": "S2-D005",
+      "dish": "中国槐花和新西兰龙虾",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D005.jpg",
+      "sha256": "327e541df10c1ced09c5382bd5945ec4ba8c9c5e99b115fb4050798a28566bda",
+      "width": 960,
+      "height": 720,
+      "bytes": 216043,
+      "prompt": "prompts/S2-D005.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "龙虾尾肉与槐花同盘，未误画成带巨钳龙虾。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D007": {
+      "id": "S2-D007",
+      "dish": "法式血鸭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D007.jpg",
+      "sha256": "84fdff39e03296008e2a67cf2e31c1ba6bfc9c1345237229dd396d8e8d9cd77e",
+      "width": 960,
+      "height": 720,
+      "bytes": 213098,
+      "prompt": "prompts/S2-D007.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟鸭胸与深红棕鸭汁为主体。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D008": {
+      "id": "S2-D008",
+      "dish": "扇贝Ceviche",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D008.jpg",
+      "sha256": "b22dc543f6dc32c19f976527a9d2792100b0e4af1ef386c9587ea8e993aa5c8d",
+      "width": 960,
+      "height": 720,
+      "bytes": 184634,
+      "prompt": "prompts/S2-D008.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "扇贝片保持微透明柑橘腌制形态，未误画成煎带子。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D009": {
+      "id": "S2-D009",
+      "dish": "墨脱石炝锅怪味牛小排",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D009.jpg",
+      "sha256": "e26af5eaca7c624dd27158360420319c28d9bfc6b7126548d8c28aabb7dc7f43",
+      "width": 960,
+      "height": 720,
+      "bytes": 236663,
+      "prompt": "prompts/S2-D009.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "牛小排与薄酱汁为主体，无擅加石头或配菜。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D010": {
+      "id": "S2-D010",
+      "dish": "金枪鱼拿破仑",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D010.jpg",
+      "sha256": "84cd54b1cc96596cdfb79711412187388c960be102ff225f6e6235f57c1dd6b0",
+      "width": 960,
+      "height": 720,
+      "bytes": 208388,
+      "prompt": "prompts/S2-D010.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients_illustrative_form",
+      "source_urls": [
+        "https://yule.360.com/detail/5128040"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "金枪鱼置于两层薄脆土豆片之间，未画成甜拿破仑。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D011": {
+      "id": "S2-D011",
+      "dish": "冬去春来麻糬面疙瘩",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D011.jpg",
+      "sha256": "54e4d22061a7c1e671b0373642729238d0ecf41f959d274c492a5950eb2a7fb0",
+      "width": 960,
+      "height": 720,
+      "bytes": 195300,
+      "prompt": "prompts/S2-D011.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients_illustrative_form",
+      "source_urls": [
+        "https://k.sina.com.cn/article_1985593262_7659bfae02703zbr4.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "麻糬面疙瘩与黄酒色薄汁呈现，未画成普通疙瘩汤。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D012": {
+      "id": "S2-D012",
+      "dish": "二代香茅脆皮叉烧",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D012.jpg",
+      "sha256": "247c221c4cac86b8b0a3daaf513564df1a6e63d2252324d45a6c35b80253a214",
+      "width": 960,
+      "height": 720,
+      "bytes": 231839,
+      "prompt": "prompts/S2-D012.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "脆皮叉烧切片与金黄薄脆皮清晰。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D013": {
+      "id": "S2-D013",
+      "dish": "一虾三吃",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D013.jpg",
+      "sha256": "9fb4d3be079f8bcc31589eff5f8ca17fe3ce16271e5e93bafa0ec0b4edad5d39",
+      "width": 960,
+      "height": 720,
+      "bytes": 230606,
+      "prompt": "prompts/S2-D013.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_core_three_components",
+      "source_urls": [
+        "https://www.cnsa.cn/art/2026/9/10/art_1955_49284.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "三种虾料理分三小碗；味型颜色仅作示意。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D014": {
+      "id": "S2-D014",
+      "dish": "台式麻辣花胶",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D014.jpg",
+      "sha256": "ee29f613872891db40cec9932124d21218d48c41ce53c6c0aa9008b651ce6516",
+      "width": 960,
+      "height": 720,
+      "bytes": 252673,
+      "prompt": "prompts/S2-D014.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "花胶呈半透明卷曲胶质形态，未画成鱼柳。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D015": {
+      "id": "S2-D015",
+      "dish": "糟辣汤苕粉笋壳鱼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D015.jpg",
+      "sha256": "15f3b98bc02f96864ef38021856d55416f88644b2f003c30c45b367f11890017",
+      "width": 960,
+      "height": 720,
+      "bytes": 242027,
+      "prompt": "prompts/S2-D015.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_ingredients",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=NCzpW71SFwQ&t=828s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订后鱼皮平滑无明显重叠硬鳞，鱼肉、苕粉和番茄保留。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D016": {
+      "id": "S2-D016",
+      "dish": "酸辣鲜香东安鸡",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D016.jpg",
+      "sha256": "4bf9eab23e931ee15e53969c83bf7eb8a6a55a79abd2dc3532d5bb829396829b",
+      "width": 960,
+      "height": 720,
+      "bytes": 225890,
+      "prompt": "prompts/S2-D016.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_illustration",
+      "source_urls": [
+        "https://www.xiachufang.com/recipe/106389068/"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡块、姜丝与椒片对应东安鸡的菜名示意。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D018": {
+      "id": "S2-D018",
+      "dish": "淮扬蟹粉拆烩鱼脸",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D018.jpg",
+      "sha256": "ecd64ce32c5ed7cdb620e1fe98aa71d3c29aabd6b06f3e693a01b4b730415bdc",
+      "width": 960,
+      "height": 720,
+      "bytes": 213867,
+      "prompt": "prompts/S2-D018.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "去骨鱼脸肉与金黄蟹粉分辨清楚，无鱼头错配。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D019": {
+      "id": "S2-D019",
+      "dish": "四上手撕鸡配四川酸辣粉",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D019.jpg",
+      "sha256": "7ebef2058015a88aaff22779b72b05e9e451d9f9071f7df5dc93150a303f88cd",
+      "width": 960,
+      "height": 720,
+      "bytes": 275803,
+      "prompt": "prompts/S2-D019.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.sohu.com/a/1057201492_788861",
+        "https://www.youtube.com/watch?v=NCzpW71SFwQ&t=1161s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "四味手撕鸡与酸辣粉共五个器皿，全部可见。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D020": {
+      "id": "S2-D020",
+      "dish": "莫氏鸡煲",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D020.jpg",
+      "sha256": "4cf14ea94a5dd8d59f7cba82990bf9a40784b0bc472a17dc90966c525f275099",
+      "width": 960,
+      "height": 720,
+      "bytes": 253256,
+      "prompt": "prompts/S2-D020.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡煲只呈现已知鸡肉核心与卤汁。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D022": {
+      "id": "S2-D022",
+      "dish": "山野背篓·十种番茄炖牛肉配黑松露苞谷饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D022.jpg",
+      "sha256": "829350308cadbe7ddae08f2e36f6695be2924e81794265801392d830b475a5ae",
+      "width": 960,
+      "height": 720,
+      "bytes": 279510,
+      "prompt": "prompts/S2-D022.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "番茄牛肉和松露苞谷饭分别装碗，同框完整。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D024": {
+      "id": "S2-D024",
+      "dish": "不一样的小鸡炖蘑菇",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D024.jpg",
+      "sha256": "136708a512beff990f29b67d7191af56ba4c603539df1f4a00b2efb07fa43e9f",
+      "width": 960,
+      "height": 720,
+      "bytes": 237567,
+      "prompt": "prompts/S2-D024.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡块与褐色菌菇在少量汤汁中呈现。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D025": {
+      "id": "S2-D025",
+      "dish": "爆汁羊眼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D025.jpg",
+      "sha256": "ebf9a1594f62e0cb9586763115c4c80519099d14414e250a8e22ca135e8bb060",
+      "width": 960,
+      "height": 720,
+      "bytes": 204878,
+      "prompt": "prompts/S2-D025.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟羊眼为完整小圆块，没有生眼或血腥形态。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D026": {
+      "id": "S2-D026",
+      "dish": "滋花豆芽炒粉条",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D026.jpg",
+      "sha256": "d8fae9cb9fbfd6ec2a7596ff361a5a585ed53e2636b04c71b548fb4c36e36de1",
+      "width": 960,
+      "height": 720,
+      "bytes": 236253,
+      "prompt": "prompts/S2-D026.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5334445295143656.html",
+        "https://www.youtube.com/watch?v=NCzpW71SFwQ&t=2441s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "黄豆芽、粉条及小白花瓣对应已知组成。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D027": {
+      "id": "S2-D027",
+      "dish": "柚子黑醋汁酥皮实心海参",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D027.jpg",
+      "sha256": "0ac8e03c3b715f3e944b853d3f9f6db366a188a4c3481a7007558be96c56bbd5",
+      "width": 960,
+      "height": 720,
+      "bytes": 198805,
+      "prompt": "prompts/S2-D027.txt",
+      "tool": "built-in image_gen",
+      "basis": "restaurant_context_and_title",
+      "source_urls": [
+        "https://foodnwine.ifeng.com/c/8vGMMDXEStB"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "海参薄酥壳、深色切面与黑醋柚子风味汁清晰。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D028": {
+      "id": "S2-D028",
+      "dish": "蟹蟹你的爱（煳辣蟹）",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D028.jpg",
+      "sha256": "8fa6a963d44270e9376509f91915a3c41c76aaab25b1068b24e81c28e8bf9aad",
+      "width": 960,
+      "height": 720,
+      "bytes": 259914,
+      "prompt": "prompts/S2-D028.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟蟹块与煳辣酱汁清楚，蟹壳形态正常。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D029": {
+      "id": "S2-D029",
+      "dish": "脆米立鳞鱼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D029.jpg",
+      "sha256": "9d56a29ccb788f722cad815716a37c077b40a7ed3eb435098611569e01183235",
+      "width": 960,
+      "height": 720,
+      "bytes": 219660,
+      "prompt": "prompts/S2-D029.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鱼柳酥鳞与脆米清楚；立鳞是菜名指定技法。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D031": {
+      "id": "S2-D031",
+      "dish": "新加坡风味法式田鸡腿",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D031.jpg",
+      "sha256": "43cc6bfcc8b2556d199559dce97571854d88e070d9aa3893da5eaf015e1d10ed",
+      "width": 960,
+      "height": 720,
+      "bytes": 196090,
+      "prompt": "prompts/S2-D031.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订为两对细长弯曲的熟蛙腿，摆脱粗大鸡腿形态。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D032": {
+      "id": "S2-D032",
+      "dish": "琥珀糖醋酥炸花胶公配茉莉油柑橄榄汁",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D032.jpg",
+      "sha256": "8e8ac8389cb0553fe094a8770cdcab7cc10b385e1e1f8faaf8a94cce8b6a9727",
+      "width": 960,
+      "height": 720,
+      "bytes": 240710,
+      "prompt": "prompts/S2-D032.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://news.hilton.com.cn/news/s/OcPrWkJ4WC7ABpxg"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "酥炸花胶与茉莉油柑橄榄汁同框，配饮未遗漏。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D035": {
+      "id": "S2-D035",
+      "dish": "红树林膏蟹烧宁德黄糕",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D035.jpg",
+      "sha256": "8c132400b3063688148615b45eeca0f777f25e7f564bcca210d0927ed598dc84",
+      "width": 960,
+      "height": 720,
+      "bytes": 235618,
+      "prompt": "prompts/S2-D035.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "蟹膏、熟蟹块与黄色米糕同盘。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D036": {
+      "id": "S2-D036",
+      "dish": "紫苏·鲊辣椒鲟鱼鱼肚",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D036.jpg",
+      "sha256": "fe4960de6ada6c329bee06783fa44ac83a11014b07ce0f5f9369f1b282f75281",
+      "width": 960,
+      "height": 720,
+      "bytes": 228244,
+      "prompt": "prompts/S2-D036.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鲟鱼腹肉、紫苏与鲊辣椒颗粒可辨。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D038": {
+      "id": "S2-D038",
+      "dish": "Pigeon（鸽子）",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D038.jpg",
+      "sha256": "47df07016f2c9c11f431d121f4490ecbaa0edd560854515122015ef747a42400",
+      "width": 960,
+      "height": 720,
+      "bytes": 195734,
+      "prompt": "prompts/S2-D038.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟鸽胸为题名核心示意，无虚构配菜。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D039": {
+      "id": "S2-D039",
+      "dish": "法式焗黑胡椒蟹",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D039.jpg",
+      "sha256": "eb5562aaec7badd413a1d317197144c0af07768731bc526879c5c48ce7885b05",
+      "width": 960,
+      "height": 720,
+      "bytes": 220861,
+      "prompt": "prompts/S2-D039.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_components",
+      "source_urls": [
+        "https://www.voonhk.com/"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "蟹肉胡椒汁与酥皮盖分别可见。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D040": {
+      "id": "S2-D040",
+      "dish": "双味乳猪",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D040.jpg",
+      "sha256": "8fad4b4c95e2f553be67b30077898824735a8dbde27329f311049ef98bdef142",
+      "width": 960,
+      "height": 720,
+      "bytes": 243290,
+      "prompt": "prompts/S2-D040.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "乳猪两组风味分区，脆皮及熟肉切面自然。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D042": {
+      "id": "S2-D042",
+      "dish": "法式咖喱鱼卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D042.jpg",
+      "sha256": "861a84788f7ebeedc5cebdd74602c26b054ea74944208b3fcc31b79040c96892",
+      "width": 960,
+      "height": 720,
+      "bytes": 197895,
+      "prompt": "prompts/S2-D042.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "白鱼卷切面与金黄咖喱汁一致。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D043": {
+      "id": "S2-D043",
+      "dish": "蓝龙虾配乳化江南雪菜毛豆",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D043.jpg",
+      "sha256": "15837fdc6ebea5e52997e14dfaae75a2161beff6d4e5aeb26f6459605cfb5132",
+      "width": 960,
+      "height": 720,
+      "bytes": 199305,
+      "prompt": "prompts/S2-D043.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟龙虾肉、雪菜毛豆乳化汁清楚，未画成生蓝龙虾。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D044": {
+      "id": "S2-D044",
+      "dish": "港式避风塘天使面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D044.jpg",
+      "sha256": "0e69f008ef91a65bbfc3df745f07c19f4e1ef117393e6dd11f455a5af6342c31",
+      "width": 960,
+      "height": 720,
+      "bytes": 232401,
+      "prompt": "prompts/S2-D044.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "细天使面与避风塘蒜酥清楚，无额外海鲜。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D045": {
+      "id": "S2-D045",
+      "dish": "老菜脯海鲜泡饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D045.jpg",
+      "sha256": "363890c828629a5dfc123f76a73b6b55171853cb1aee975d37f07f4519e2c3bb",
+      "width": 960,
+      "height": 720,
+      "bytes": 248729,
+      "prompt": "prompts/S2-D045.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "米饭泡汤、虾鱼及菜脯粒为题名通用示意，不声称海鲜品种已核实。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D046": {
+      "id": "S2-D046",
+      "dish": "我是大海（I AMN SEA）",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D046.jpg",
+      "sha256": "3f0fa2224dcee11e073ac4e9f61bb596f41c21688eb15011b896a29ae9f39021",
+      "width": 960,
+      "height": 720,
+      "bytes": 196003,
+      "prompt": "prompts/S2-D046.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=nEqHVQFsuZ0&t=1901s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "黑白船形饺子、海鲜菜馅与蝶豆花汤可辨。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D047": {
+      "id": "S2-D047",
+      "dish": "东山岛鱿鱼甜豆金桔酱甜豆香草黄油汁",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D047.jpg",
+      "sha256": "d54ead962b96fc8ecfe28bfc6302250b390e36ac919762390eefb2c1dd8582f2",
+      "width": 960,
+      "height": 720,
+      "bytes": 223997,
+      "prompt": "prompts/S2-D047.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订为细小鱿鱼须，保留鱿鱼肉、甜豆及金桔香草黄油汁。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D048": {
+      "id": "S2-D048",
+      "dish": "北派海肠捞饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D048.jpg",
+      "sha256": "ef934ef459b0a38674d03f8780db1fdd5f65f5854b048461739521e8cf1efdd8",
+      "width": 960,
+      "height": 720,
+      "bytes": 238332,
+      "prompt": "prompts/S2-D048.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_main_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5326429262972607.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "海肠短段呈柔软中空形态，置于米饭上。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D049": {
+      "id": "S2-D049",
+      "dish": "牛肝菌焖海参",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D049.jpg",
+      "sha256": "969f3da329d80584ba1c45fedcd9aba5b062ca399b4741081cdb164d02ff08b2",
+      "width": 960,
+      "height": 720,
+      "bytes": 222743,
+      "prompt": "prompts/S2-D049.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "两条小海参和牛肝菌切片形态可辨。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D051": {
+      "id": "S2-D051",
+      "dish": "发酵果酸酸汤东星斑配炭烤海菜",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D051.jpg",
+      "sha256": "7eae791e22512051cb5a7d752b7a9b20cb0019982d471f7d625cae3d14874f9d",
+      "width": 960,
+      "height": 720,
+      "bytes": 206336,
+      "prompt": "prompts/S2-D051.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鱼皮修订为平滑薄皮，酸汤鱼肉与炭烤海菜保留。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D052": {
+      "id": "S2-D052",
+      "dish": "皮蛋生腌沙卢虾",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D052.jpg",
+      "sha256": "5bee023c35054de31064af2204a6132fc10fb797beff05fd6190f1594ac5be81",
+      "width": 960,
+      "height": 720,
+      "bytes": 212434,
+      "prompt": "prompts/S2-D052.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_ingredients",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=nEqHVQFsuZ0&t=3927s",
+        "https://www.czcityofgastronomy.com/videoDetail/256"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "半透明生腌虾与皮蛋楔块、椒汁对应组成。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D053": {
+      "id": "S2-D053",
+      "dish": "山韵马告黑豚卤肉饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D053.jpg",
+      "sha256": "b87e3982b679bc9ac718161bf1e9ef3225407aab8e970082ef39feae188498dd",
+      "width": 960,
+      "height": 720,
+      "bytes": 253056,
+      "prompt": "prompts/S2-D053.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_main_ingredients",
+      "source_urls": [
+        "https://yule.360.com/detail/5137598"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "卤肉丁与白米饭构成清楚。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D054": {
+      "id": "S2-D054",
+      "dish": "所有女生的红烧牛肉面",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D054.jpg",
+      "sha256": "7a0117a097775508ebf812aa2a3dc0fb934ca6f53b6b66fce5728aaaf6ed5a86",
+      "width": 960,
+      "height": 720,
+      "bytes": 259369,
+      "prompt": "prompts/S2-D054.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "红烧牛肉块与面汤可辨，无额外蛋、蔬菜等浇头。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D055": {
+      "id": "S2-D055",
+      "dish": "从南美到宁夏—鸭肉饭",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D055.jpg",
+      "sha256": "c7c151c5c3808989450628fe09bce72b5291e9b2614f2556df167f6edb079659",
+      "width": 960,
+      "height": 720,
+      "bytes": 253660,
+      "prompt": "prompts/S2-D055.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟鸭肉与米饭为主体，未添加臆测异国配料。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D056": {
+      "id": "S2-D056",
+      "dish": "荷塘",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D056.jpg",
+      "sha256": "236744596b0bcd4075cbecd8f9e66a81a3690342b1f701f89f367793a8d0f9e7",
+      "width": 960,
+      "height": 720,
+      "bytes": 186416,
+      "prompt": "prompts/S2-D056.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IclACUhAn40&t=960s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "百合泥、烤百合瓣、百合羹及碎生百合同碗，没有莲藕或荷叶误配。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D057": {
+      "id": "S2-D057",
+      "dish": "Taste bank（风味库）",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D057.jpg",
+      "sha256": "c67138c39f5b8b07b9d1475ef02ac2bf402e22e10150ecf2fb039c9e097d3c71",
+      "width": 960,
+      "height": 720,
+      "bytes": 206847,
+      "prompt": "prompts/S2-D057.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IclACUhAn40&t=680s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "香菇玛德琳与荔枝百合丝瓜冰沙组合清楚。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D058": {
+      "id": "S2-D058",
+      "dish": "果香酸辣赤贝 荔枝丝瓜豌豆沙冰",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D058.jpg",
+      "sha256": "3ee2b877d7fd8dffd49bfdaab859607972dcef5ad50c3301d4a40f3279d86fe4",
+      "width": 960,
+      "height": 720,
+      "bytes": 219998,
+      "prompt": "prompts/S2-D058.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IclACUhAn40&t=783s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "赤贝与绿酱、荔枝丝瓜豌豆冰沙分开呈现。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D059": {
+      "id": "S2-D059",
+      "dish": "山海清和",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D059.jpg",
+      "sha256": "40e1afd4d489e8bc9d4c52e1238e5b07f707f596bb7b8a40cefef885bdea6b26",
+      "width": 960,
+      "height": 720,
+      "bytes": 191802,
+      "prompt": "prompts/S2-D059.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IclACUhAn40&t=1456s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "茭白玫瑰卷、赤贝、豌豆及脆鸡皮清楚，未添大块鸡肉。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D060": {
+      "id": "S2-D060",
+      "dish": "赤贝乌鸡汤 豆豉太妃奶油酱汁金鲳鱼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D060.jpg",
+      "sha256": "b0979eb5fef6da4bd2b022ddc102888df434ab217fac359fbd8b527edb26791c",
+      "width": 960,
+      "height": 720,
+      "bytes": 215299,
+      "prompt": "prompts/S2-D060.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_video_components",
+      "source_urls": [
+        "https://www.youtube.com/watch?v=IclACUhAn40&t=1518s"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订乌鸡皮为细孔禽皮，赤贝百合乌鸡汤与豆豉太妃金鲳鱼分盘。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D061": {
+      "id": "S2-D061",
+      "dish": "曼珠牛舌",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D061.jpg",
+      "sha256": "1a02f5c261feed56660118e69e77874126ad78db69dcb109a77011d2a3930cad",
+      "width": 960,
+      "height": 720,
+      "bytes": 219562,
+      "prompt": "prompts/S2-D061.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "牛舌熟切片为题名核心，不加入彼岸花等字面装饰。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D062": {
+      "id": "S2-D062",
+      "dish": "茭白姜母鸭腿卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D062.jpg",
+      "sha256": "f1c708d8d02261d2af9eff9095b3b5d04b182679868d01796ec1cecdd06b7bea",
+      "width": 960,
+      "height": 720,
+      "bytes": 203880,
+      "prompt": "prompts/S2-D062.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸭腿卷切面可见茭白，姜汁与禽皮形态正常。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D063": {
+      "id": "S2-D063",
+      "dish": "香黄花椒焗金鲳",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D063.jpg",
+      "sha256": "3fce05c7e4362a3d3161e05ddfcbecb0a28e79f81fb16b9dce41fb65ce565083",
+      "width": 960,
+      "height": 720,
+      "bytes": 239501,
+      "prompt": "prompts/S2-D063.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "熟金鲳鱼与椒香汁可辨，无未经证实的配菜。 米白餐具、暖灰石桌、柔光和俯拍风格统一；摆盘为 AI 示意。"
+      }
+    },
+    "S2-D064": {
+      "id": "S2-D064",
+      "dish": "菌菇椒麻雪花牛肉",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D064.jpg",
+      "sha256": "b155270a2843aab7b87ef2f63c9f89faabe56d910349d8f6eba05ad882583302",
+      "width": 960,
+      "height": 720,
+      "bytes": 237379,
+      "prompt": "prompts/S2-D064.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "牛肉薄片与菌菇、椒麻汁同盘。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D065": {
+      "id": "S2-D065",
+      "dish": "蔬菜清汤配卤水鹅肝蒸蛋",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D065.jpg",
+      "sha256": "c2a4093ac015a80c5864d4dbb10a37c7b7a0aacd5cd870d3ceca01350c532bda",
+      "width": 960,
+      "height": 720,
+      "bytes": 186439,
+      "prompt": "prompts/S2-D065.txt",
+      "tool": "built-in image_gen",
+      "basis": "title_and_official_core",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5332154713115953.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鹅肝蒸蛋与清汤清楚，未画成普通甜布丁。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D066": {
+      "id": "S2-D066",
+      "dish": "炭烤金鲳鱼烤时令蔬菜汤",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D066.jpg",
+      "sha256": "98ab85cf8c5bf07c7d992fe06287bbca4be4dcdfb85e89a2f0791df2254bb355",
+      "width": 960,
+      "height": 720,
+      "bytes": 180763,
+      "prompt": "prompts/S2-D066.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订移除未经证实的蔬菜块配菜，仅保留烤鱼与蔬菜汤。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D067": {
+      "id": "S2-D067",
+      "dish": "水乡鱼羹",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D067.jpg",
+      "sha256": "15cb0a0ea2c2248b34740ef6e370d877d9192af5fcbe1d23818aeb99862d4284",
+      "width": 960,
+      "height": 720,
+      "bytes": 213990,
+      "prompt": "prompts/S2-D067.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鱼肉碎片与浅色羹汤形态相符。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D068": {
+      "id": "S2-D068",
+      "dish": "荔枝宫保鸡肉",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D068.jpg",
+      "sha256": "56f344e1e5543f66ae3366739aae1968af00853c3bf6bbf11decf50d052d0a92",
+      "width": 960,
+      "height": 720,
+      "bytes": 232897,
+      "prompt": "prompts/S2-D068.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡块、去壳荔枝和少量辣椒相符，未添坚果配料。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D069": {
+      "id": "S2-D069",
+      "dish": "欢迎回家（糖醋排骨）",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D069.jpg",
+      "sha256": "59ef38482ffd4e14b640f3a157d2488b76414f0bfd4823b97c7951e2357c90f6",
+      "width": 960,
+      "height": 720,
+      "bytes": 226597,
+      "prompt": "prompts/S2-D069.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "糖醋排骨块、骨肉结构及糖醋汁自然。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D070": {
+      "id": "S2-D070",
+      "dish": "茶油豆豉蒸花猪排",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D070.jpg",
+      "sha256": "bd472bc8bf66b5489d10d4108ecfa180a6ae7721666e03f65b5b484b37199f03",
+      "width": 960,
+      "height": 720,
+      "bytes": 227537,
+      "prompt": "prompts/S2-D070.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "茶油豆豉蒸排骨为浅色蒸制熟肉，无饮茶误解。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D071": {
+      "id": "S2-D071",
+      "dish": "排骨芦笋汤 酱油水葱烤金鲳鱼 拌茭白",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D071.jpg",
+      "sha256": "51c0e79bc9b92812c423707dcbed5cf8ca9cfb480ad6aa9300e2133d39866b7f",
+      "width": 960,
+      "height": 720,
+      "bytes": 248971,
+      "prompt": "prompts/S2-D071.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "排骨芦笋汤、葱烤金鲳鱼、拌茭白三份齐全。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D073": {
+      "id": "S2-D073",
+      "dish": "卤水拼盘",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D073.jpg",
+      "sha256": "eb9e4e1dab9cafe9e0bf887db116611409c490d38d554346bca624ac0cb8fc09",
+      "width": 960,
+      "height": 720,
+      "bytes": 218717,
+      "prompt": "prompts/S2-D073.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_and_reference_core",
+      "source_urls": [
+        "https://china-kitchen.lkk.com.cn/kitchen/zh-cn/recipe/0/c3/f7/"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "卤鸡翅、豆腐和鸡蛋对应参考组成，不称完整原方。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D074": {
+      "id": "S2-D074",
+      "dish": "澄清番茄蛋白花甜汤",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D074.jpg",
+      "sha256": "5f61e46110b3690470c93f7a6af479663962157ab9038b403cdc8a5e994968d9",
+      "width": 960,
+      "height": 720,
+      "bytes": 217914,
+      "prompt": "prompts/S2-D074.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "透明浅金汤与白色蛋白花相符。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D075": {
+      "id": "S2-D075",
+      "dish": "木槿花肉汆蛋",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D075.jpg",
+      "sha256": "4daef6ca1026b9e013c9e9fa7d2a6e8c2b4131cd398221d3b32e136907cb61b7",
+      "width": 960,
+      "height": 720,
+      "bytes": 231674,
+      "prompt": "prompts/S2-D075.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "肉碎、蛋花和木槿花瓣同碗。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D076": {
+      "id": "S2-D076",
+      "dish": "焦糖香肠折耳根无花果干煸土豆丝",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D076.jpg",
+      "sha256": "6be3929e1555378ca72cff3af061adad21ff73ad968469330c5f9fea170b2992",
+      "width": 960,
+      "height": 720,
+      "bytes": 235250,
+      "prompt": "prompts/S2-D076.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "修订折耳根为细白带节根茎，保留香肠、土豆丝与无花果。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D079": {
+      "id": "S2-D079",
+      "dish": "中式西班牙土豆蛋饼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D079.jpg",
+      "sha256": "25d002b1f9ada6990fca5262de50cc40b8a43e170d6ae1b4dfe81f6c0b182ca6",
+      "width": 960,
+      "height": 720,
+      "bytes": 199679,
+      "prompt": "prompts/S2-D079.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "土豆蛋饼切面为鸡蛋包裹土豆片，未添其他馅料。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D081": {
+      "id": "S2-D081",
+      "dish": "鸡蛋肉汤西红柿炒鸡蛋",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D081.jpg",
+      "sha256": "9f5269b7ae9673cb5ff44ef9096c14a050e66c695303ca156435b2119a9497b3",
+      "width": 960,
+      "height": 720,
+      "bytes": 253640,
+      "prompt": "prompts/S2-D081.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_two_components",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5331471817509092.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡蛋肉汤与番茄炒蛋两份独立呈现。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D082": {
+      "id": "S2-D082",
+      "dish": "木槿花时蔬蛋卷",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D082.jpg",
+      "sha256": "35ca72defc198ce0cb975ab94eb5af7c4b5054a114529594fd40b6266f46ff08",
+      "width": 960,
+      "height": 720,
+      "bytes": 202885,
+      "prompt": "prompts/S2-D082.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "蛋卷内可见木槿花瓣及蔬菜碎。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D083": {
+      "id": "S2-D083",
+      "dish": "土豆烙饼",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D083.jpg",
+      "sha256": "839c13dea365233f68fdb6617e20a2df7a4401b909f8afd26191bcd754b429c2",
+      "width": 960,
+      "height": 720,
+      "bytes": 257027,
+      "prompt": "prompts/S2-D083.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "土豆烙饼脆边和土豆丝切面清楚。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D084": {
+      "id": "S2-D084",
+      "dish": "炖萝卜丝炒小鱼干凉拌茄子",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D084.jpg",
+      "sha256": "59915a013824b5c54ea4073cba0185fdbc2f3b0fc9f6af49ea1299c88be309a3",
+      "width": 960,
+      "height": 720,
+      "bytes": 255044,
+      "prompt": "prompts/S2-D084.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "萝卜丝、小鱼干与茄子分为三个小碗。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D085": {
+      "id": "S2-D085",
+      "dish": "奶汤沁丝瓜",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D085.jpg",
+      "sha256": "2ff6a85982aab9290bd3d9b41da010c7dad18b96afdf179bc3676882947b64ba",
+      "width": 960,
+      "height": 720,
+      "bytes": 218546,
+      "prompt": "prompts/S2-D085.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "丝瓜与奶白高汤相符，没有误添甜奶或奶油。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D088": {
+      "id": "S2-D088",
+      "dish": "酱油水煲鱼腩",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D088.jpg",
+      "sha256": "6a2e415c91d6e391d57411deb217515fe5b8595313dbf781b60265895e44d2df",
+      "width": 960,
+      "height": 720,
+      "bytes": 240199,
+      "prompt": "prompts/S2-D088.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_core_only",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鱼腩与酱油水汤汁为主体，未添米饭。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D089": {
+      "id": "S2-D089",
+      "dish": "火山飘雪",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D089.jpg",
+      "sha256": "be4b84b318bcd2f1b442dd974dab8cd585771aa5d25e83353d390122ef84ed21",
+      "width": 960,
+      "height": 720,
+      "bytes": 232619,
+      "prompt": "prompts/S2-D089.txt",
+      "tool": "built-in image_gen",
+      "basis": "reported_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5331828083002847.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "番茄与白糖为冷拌形态，未画成烧煮甜点。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D092": {
+      "id": "S2-D092",
+      "dish": "宫保鸡丁",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D092.jpg",
+      "sha256": "90055b2c17c319ea0779c6b5aef6006560f7929b10f4658b44d6f54ec6864cd5",
+      "width": 960,
+      "height": 720,
+      "bytes": 244757,
+      "prompt": "prompts/S2-D092.txt",
+      "tool": "built-in image_gen",
+      "basis": "official_ingredients",
+      "source_urls": [
+        "https://www.sina.cn/news/detail/5328894426352071.html"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡丁、花生及干辣椒对应官方教程可知组成。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D104": {
+      "id": "S2-D104",
+      "dish": "油焖鸳鸯虾鲜味清饮",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D104.jpg",
+      "sha256": "cd52a6470984caa7e184564f37eaf0cfe35e9c3873ca9c0cfc9cd706352aec03",
+      "width": 960,
+      "height": 720,
+      "bytes": 242295,
+      "prompt": "prompts/S2-D104.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "两种虾的题名示意与鲜味清饮同框。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D106": {
+      "id": "S2-D106",
+      "dish": "鸡油菌清汤羊",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D106.jpg",
+      "sha256": "aab69aaf41df552d68c9ac3a1d4c98ad32166eb08a61a05c995ad8e84242ca9d",
+      "width": 960,
+      "height": 720,
+      "bytes": 254239,
+      "prompt": "prompts/S2-D106.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "鸡油菌与清汤羊肉相符，未误用鸡肉。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D107": {
+      "id": "S2-D107",
+      "dish": "高原岗巴羊双重奏配雪菊刺梨冰茶",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D107.jpg",
+      "sha256": "78d484ef0d81d36144e88cb719818fe82654b213deb9267bca513d7c47eb1d53",
+      "width": 960,
+      "height": 720,
+      "bytes": 240930,
+      "prompt": "prompts/S2-D107.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "两种羊肉形态与冰茶三器皿同框；烹调与配比仅示意。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D108": {
+      "id": "S2-D108",
+      "dish": "溪藻竹荪兔丝羹",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D108.jpg",
+      "sha256": "13b869ce9a5d3779616d0021b7b3da0ab3e26784f60adc45b09fe6f90b645f4a",
+      "width": 960,
+      "height": 720,
+      "bytes": 245867,
+      "prompt": "prompts/S2-D108.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "兔肉丝、网状竹荪与溪藻羹清楚。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
+      }
+    },
+    "S2-D109": {
+      "id": "S2-D109",
+      "dish": "笋丁兔肉丸子",
+      "kind": "ai_illustration",
+      "label": "AI 示意",
+      "notice": "根据菜名及已知食材生成，摆盘仅供示意，并非节目原始照片。",
+      "style_id": "yffs-editorial-v1",
+      "path": "covers/v1/S2-D109.jpg",
+      "sha256": "7d58e3a2eb38efa19cf8ccfe73e8d253f4bf129ee8b63651229e0b73e6e84ef5",
+      "width": 960,
+      "height": 720,
+      "bytes": 188613,
+      "prompt": "prompts/S2-D109.txt",
+      "tool": "built-in image_gen",
+      "basis": "menu_title_components",
+      "source_urls": [
+        "https://baike.baidu.com/item/一饭封神第二季"
+      ],
+      "visual_review": {
+        "checked_at": "2026-10-03",
+        "status": "approved",
+        "notes": "兔肉丸与笋丁切面清楚，无额外配菜。 系列米白器皿、暖浅石桌、柔光统一；AI 摆盘示意。"
       }
     }
   }
